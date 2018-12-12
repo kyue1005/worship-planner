@@ -1,6 +1,6 @@
-# hello-world-imba
+# worship-planner
 
-Tiny template for testing out Imba
+Try testing out Imba
 
 ## Getting started
 
@@ -10,4 +10,3 @@ npm install
 # start webpack-dev-server and compiler
 npm run dev
 ```
-# worship-planner
